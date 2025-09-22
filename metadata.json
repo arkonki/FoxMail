@@ -1,0 +1,5 @@
+{
+  "name": "Webmail Client",
+  "description": "A modern, visually appealing webmail client interface built with React and Tailwind CSS. Supports a mock data mode for UI development and is structured for integration with a live mail server.",
+  "requestFramePermissions": []
+}
